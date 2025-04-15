@@ -1,0 +1,22 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  height: 100vh; /* 画面の高さを100%にする */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* 縦方向の中央揃え */
+  align-items: center;     /* 横方向の中央揃え */
+}
+
+#image {
+  width: 80vw;     /* 画面の横幅100% */
+  height: 80vh;    /* 画面の縦幅100% */
+  object-fit: contain; /* 画像の縦横比を保ちつつ収める */
+}
+
+  #character{
+    font-size: 500px;
+    margin: 0 auto;
+
+  }

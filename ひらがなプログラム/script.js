@@ -34,16 +34,6 @@ const characters = [
     "つ": "images/つ.jpg", 
     "て": "images/て.jpg", 
     "と": "images/と.jpg", 
-    "な": "images/な.jpg", 
-    "に": "images/に.jpg", 
-    "ぬ": "images/ぬ.jpg", 
-    "ね": "images/ね.jpg", 
-    "の": "images/の.jpg", 
-    "は": "images/は.jpg", 
-    "ひ": "images/ひ.jpg", 
-    "ふ": "images/ふ.jpg", 
-    "へ": "images/へ.jpg", 
-    "ほ": "images/ほ.jpg", 
   };
   
   const charDiv = document.getElementById("character");
